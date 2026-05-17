@@ -173,5 +173,5 @@ Day2_SQL_Ecommerce_Analysis/
 ----
 ## Author
 
-Gc  
+Gayatri Chavhan 
 Python | SQL | Data Analytics | Business Intelligence
