@@ -170,3 +170,6 @@ Day2_SQL_Ecommerce_Analysis/
 ├── import_to_mysql.py
 └── README.md
 
+----
+## Author
+Gayatri Chavhan
