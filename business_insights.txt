@@ -1,0 +1,15 @@
+Day 2 - E-Commerce Sales Database Analysis
+
+1. Monthly Revenue Insight
+The monthly revenue trend shows how sales revenue changed across months. This helps identify high-performing and low-performing months.
+
+2. Order Status Insight
+Most orders are completed/delivered, which indicates successful order processing. Cancelled or unavailable orders can affect customer satisfaction.
+
+3. Top Products Insight
+A small number of products contribute high revenue. These products can be prioritized for promotions and stock management.
+
+4. Customer Insight
+Top customers contribute more orders/revenue. These customers can be targeted with loyalty offers.
+
+5. Business Conclusion
