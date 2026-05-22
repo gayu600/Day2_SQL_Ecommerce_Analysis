@@ -77,7 +77,7 @@ The following datasets were used from the Olist Brazilian E-Commerce Dataset:
 
 ---
 
-## Business Analysis Performed
+## Business Analysis performed 
 
 ### Revenue Analysis
 
