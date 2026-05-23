@@ -25,7 +25,7 @@ The project focuses on extracting business insights from relational databases us
 
 ## Project Workflow
 
-1. Data Collection
+1. Data Collection.
 2. Importing CSV files into MySQL
 3. Database Creation
 4. SQL Queries & Business Analysis
