@@ -6,7 +6,7 @@ This project is part of my **31 Days Data Analytics & Data Science Challenge**.
 
 In this project, I performed E-Commerce Sales Analysis using **SQL and Python** to analyze customer orders, revenue trends, product performance, and business KPIs.
 
-The project focuses on extracting business insights from relational databases using SQL queries and visualizing trends using Python.
+The project focuses on extracting business insights from relational databases using SQL queries and visualizing trends using Python. 
 
 ---
 
