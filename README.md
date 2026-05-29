@@ -13,7 +13,7 @@ The project focuses on extracting business insights from relational databases us
 ## Tools & Technologies Used
 
 - SQL
-- MySQL
+- Mysql
 - Python
 - Pandas
 - Matplotlib
