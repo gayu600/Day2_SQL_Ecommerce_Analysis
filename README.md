@@ -10,7 +10,7 @@ The project focuses on extracting business insights from relational databases us
 
 ---
 
-## Tools & Technologies Used
+## Tooolss & Technologies Used
 
 - SQL
 - Mysql
