@@ -139,7 +139,7 @@ The following datasets were used from the Olist Brazilian E-Commerce Dataset:
 
 ---
 
-## Conclusion
+## Conclusion.
 
 This project helped me understand:
 
