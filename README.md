@@ -68,7 +68,7 @@ The following datasets were used from the Olist Brazilian E-Commerce Dataset:
 
 - Total Revenue
 - Total Orders
-- Monthly Revenue Trend
+- Monthly Revenue Trends 
 - Top Products by Revenue
 - Top Customers
 - Order Status Distribution
