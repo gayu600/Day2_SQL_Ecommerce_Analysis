@@ -66,7 +66,7 @@ The following datasets were used from the Olist Brazilian E-Commerce Dataset:
 
 ## KPIs Analyzed
 
-- Total Revenue
+- Total Revenue 
 - Total Orders
 - Monthly Revenue Trends 
 - Top Products by Revenue
