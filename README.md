@@ -34,7 +34,7 @@ The project focuses on extracting business insights from relational databases us
 7. Python + SQL Integration
 8. Data Visualization
 9. Business Insights
-10. Conclusion
+10. Conclusion 
 
 ---
 
