@@ -81,7 +81,7 @@ The following datasets were used from the Olist Brazilian E-Commerce Dataset:
 
 ### Revenue Analysis
 
-- Monthly Revenue Trend
+- Monthly Revenue Trend. 
 - Revenue by Product Category
 - Top Revenue Generating Products
 
