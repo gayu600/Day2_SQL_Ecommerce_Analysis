@@ -119,7 +119,7 @@ The following datasets were used from the Olist Brazilian E-Commerce Dataset:
 
 ---
 
-## Top Products by Revenue
+## Top Products by Revenues 
 ![Top Products by Revenue](charts/top_products_revenue.png)
 
 ---
